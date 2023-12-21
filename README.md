@@ -8,7 +8,7 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   - Repo: https://github.com/emmavkarlsson/portfolio-project-5
   - Finished Project: https://evk-pp5-cf55770a5b07.herokuapp.com/
-  - ✅ Grade = Pass
+  - ✅ Grade = Merit
    <br>
 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
